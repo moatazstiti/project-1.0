@@ -1,0 +1,113 @@
+
+.navbar ul{
+
+    list-style-type: none;
+    background-color: rgb(164, 167, 167);
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;}
+
+.navbar a{
+
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;}
+.navbar li{
+    float: left;}
+
+#carname{
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 20px;}
+
+
+#title1{
+
+    color: rgb(255, 255, 255);
+font-style: initial;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+letter-spacing: 10px;
+text-align: center;
+}
+
+
+body{
+  background-color: black;
+  margin-left: 5%;
+  margin-right: 5%;}
+#parg1{
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-style: initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+H3{
+    color: rgb(255, 255, 255);
+    font-style: initial;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+#image1{
+   margin-left: 20%;}
+   .history{
+
+display: flex;
+
+   }
+#hp{
+color: white;
+width: 500px;
+border-style: solid;
+border-radius: 10px;
+padding: 30px;
+padding-inline-end: 130%;
+padding-block-end: 20%;
+}
+#ha{
+    margin-left: 15%;
+    margin-top: 10%;
+    }
+
+    #pabout{
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-style: initial;
+        text-align: center;
+    }
+    #vbout{
+        padding-left: 25%;
+         width: 50%;
+        }
+    #pwork{
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: initial;
+
+    }
+    #presume{
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: initial;
+    }
+    .footer{
+color: rgb(255, 255, 255);
+font-size: 15px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border-style: initial;
+text-align: center;
+display: flex;
+padding: 10%;
+background-color: beige;
+background-image: url('bugatti-hypercar.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
